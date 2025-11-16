@@ -7,11 +7,14 @@
 }
 .container .header {
     background-color:#d3d3d3;
-    padding: 2px;
+    padding: 10px;
     cursor: pointer;
     font-weight: bold;
 }
 .container .content {
     display: none;
     padding : 30px;
+}
+.page__content {
+    padding-top: 30px;
 }

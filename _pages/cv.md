@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
   Education
-  ======
+======
   PhD Student in Earth, Marine, and Environmental Sciences                    August 2025-Present
     University of North Carolina at Chapel Hill
   Bachelor of Science in Biology College of William &Mary                    August 2021-May 2025
@@ -21,18 +21,18 @@ author_profile: true
   Relevant Coursework: Ecological Niche Modeling, Science Communication, Marine Ecology, Animal Physiology, Integrative Biology: Animals, Data Structures, Algorithms, Computer Organization, General & Organic Chemistry, Genetic Analysis, Biological Oceanography, Coastal Marine Environments, Ecosystem Modeling, Intro to GIS, Quantitative Biology, Calculus I & II
 
   Skills
-  ======
+======
   Software: ArcGIS Pro, Excel, Python, R, C, C++, Stella, Ecopath, Autodesk Fusion 360, Unreal Engine 5, Blender
   Data Analysis & Collection, Project Management, Basic Laboratory Skills, Biological Field Work
 
   Awards
-  ======
+======
   Graduated Cum Laude with Honors College of William & Mary                              May 2025
   Charles Center Honors Fellowship College of William & Mary                          Summer 2024
   Dean’s List College of William & Mary                       Spring 2024, Fall 2024, Spring 2025
 
   Experience
-  ======
+======
   Teaching Assistant University of North Carolina at Chapel Hill              August 2025-Present
     - Lectured and supervised three two-hour lab sections per week for an introductory Marine Science lab course
     - Prepared and delivered 20-30 minute lectures each week and maintained regular communication with 27 undergraduate students
