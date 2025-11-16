@@ -7,7 +7,8 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+<div style="margin-top: 36px;"></div>
+<span style="display:block; margin-left: 36px;">
 &nbsp;Education
 ======
 &nbsp;PhD Student in Earth, Marine, and Environmental Sciences          August 2025-Present
@@ -74,3 +75,4 @@ author_profile: true
 
 &nbsp;Animal Shelter Volunteer                                              June 2018-August 2018
     - Maintained food stocks, washed laundry and toys, and helped visitors find the right animal
+</span>
