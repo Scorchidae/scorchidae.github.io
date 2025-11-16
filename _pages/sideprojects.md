@@ -4,10 +4,10 @@ title: "Side Projects"
 permalink: /sideprojects/
 ---
 
-Developing an Educational Marine Videogame
+&nbsp;Developing an Educational Marine Videogame
 ======
 
-&nbsp;&nbsp;&nbsp;&nbsp;During the summer after graduation, I dedicated a great deal of time to developing a marine life video game, which is a project I have been roadmapping for several years. The game simulates the behavior and interactions of fishes and other marine organisms in 3D using agent-based modeling concepts. While the project is creative in nature, it has strong educational potential as a tool for teaching ecological principles to students and the public using an engaging medium. Determining which aspects of real life ecosystems are the most important to include in order to create an interesting game while also maintaining high scientific accuracy has been an especially engaging challenge.
+&nbsp;&nbsp;&nbsp;&nbsp;For the past several years, I have been planning the development of a marine life video game that I believe has great potential for both recreation and education. The game simulates the behavior and interactions of fishes and other marine organisms in 3D using agent-based modeling concepts. While the project is creative in nature, it has strong educational potential as a tool for teaching ecological principles to students and the public using an engaging medium. Determining which aspects of real life ecosystems are the most important to include in order to create an interesting game while also maintaining high scientific accuracy has been an especially engaging challenge.
 
 ![Alt text](/images/overfished1.png)
 
