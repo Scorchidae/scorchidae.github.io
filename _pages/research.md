@@ -3,7 +3,8 @@ layout: page
 title: "Research"
 permalink: /research/
 ---
-<div style="padding-left: 2em;">
+
+<div style="padding-left: 10em;">
 
 Quantifying Pathways between Seagrass Habitat and Fisheries Production in North Carolina Estuaries
 ======
