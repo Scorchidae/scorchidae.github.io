@@ -12,10 +12,10 @@ main:
     url: /research/
     
   - title: "Side Projects"
-    url: /side projects/
+    url: /sideprojects/
 
   - title: "CV"
-    url: /cv-json/
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
