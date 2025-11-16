@@ -13,7 +13,7 @@ Education
 
 PhD Student in Earth, Marine, and Environmental Sciences - University of North Carolina at Chapel Hill (August 2025-Present)
 Bachelor of Science in Biology - College of William &Mary (August 2021-May 2025)
-- Concentration in Marine Biology | Minor in Computer Science
+- Concentration in Marine Biology & Minor in Computer Science
 - 3.77 GPA in Major, 3.5 Overall GPA
 
 Research Interests: Marine Ecology, Population Dynamics and Spatiotemporal Distribution of Fishes, Ecological Niche Modeling, Ecosystem Modeling, Ichthyology
@@ -72,5 +72,3 @@ Varsity Esports Player and Captain (August 2022-May 2025)
 
 Animal Shelter Volunteer (June 2018-August 2018)
   - Maintained food stocks, washed laundry and toys, and helped visitors find the right animal
-
-</div>
