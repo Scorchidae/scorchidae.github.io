@@ -16,21 +16,15 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+
 
 <style>
-  .page__content,
-  .page-content,
-  .post__content,
-  .entry-content,
-  .archive__content,
-  .single-content,
-  .wrap,
-  .page,
-  .page__inner-wrap,
-  main,
-  article {
+  /* Indent all content everywhere, no matter the wrapper */
+  main, article, .page__content, .page-content, .single-content, .post__content, .entry-content, .wrap, .site-main {
       margin-left: 20px !important;
       padding-left: 20px !important;
       margin-top: 20px !important;
   }
-</style>
+  </style>
