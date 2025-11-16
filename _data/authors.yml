@@ -1,18 +1,12 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  name        : "Ian Kenny"
+  homepage    : "https://scorchidae.github.io"
+  email       : "ipkenny@unc.edu"
+  bio         : "I am PhD student at the University of North Carolina at Chapel Hill with a research focus on the ecology of fishes and ecological modeling"
+  avatar      : "avatar1.jpg"
+  google scholar : "https://scholar.google.com/citations?user=TocwVHwAAAAJ&hl=en"
+  ORCHID      : "0009-0000-3906-6873"
+  github      : "Scorchidae"
+  linkedIn    : "www.linkedin.com/in/ian-kenny-45150132a"
