@@ -18,6 +18,6 @@ Assessing the Carrying Capcity and Ecological Impacts of Bivalve Aquaculture in 
 
 <img src="/images/cherrystone2.png" alt="Trophic Diagram" width="500" style="margin-top:10px; margin-bottom:10px;">
 
-![Alt text](/images/cherystone2.png)
+![Alt text](/images/cherrystone2.png)
 
 Flow diagram representation of the trophic flows in the Cherrystone Inlet Ecopath model. The y-axis denotes trophic level and the size of the circle for each group is proportional to standing stock biomass.
