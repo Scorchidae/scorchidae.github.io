@@ -2,6 +2,8 @@
 layout: page
 title: "Research"
 permalink: /research/
+sidebar: true
+toc: false
 ---
 
 Quantifying Pathways between Seagrass Habitat and Fisheries Production in North Carolina Estuaries
