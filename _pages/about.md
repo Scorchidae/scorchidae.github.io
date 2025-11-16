@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="margin-left: 40px; margin-top: 36px;">
+<div style="margin-left: 20px; margin-top: 20px;">
 
 I have long been fascinated by the complexity of ecological systems and the morphological and ecological diversity of marine organisms. From a young age, I have wanted to understand why species live where they do, how they respond to environmental change, and how their behaviors can impact the structure of their ecosystems.
 
