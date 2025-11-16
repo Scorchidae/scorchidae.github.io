@@ -8,9 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
-  Education
+&nbsp;Education
 ======
-  PhD Student in Earth, Marine, and Environmental Sciences                    August 2025-Present
+&nbsp;&nbsp;PhD Student in Earth, Marine, and Environmental Sciences          August 2025-Present
     University of North Carolina at Chapel Hill
   Bachelor of Science in Biology College of William &Mary                    August 2021-May 2025
     Concentration in Marine Biology | Minor in Computer Science
