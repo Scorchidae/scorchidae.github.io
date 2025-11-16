@@ -1,4 +1,13 @@
-.page__content {
+.page__content,
+.page-content,
+.post__content,
+.entry-content,
+.archive__content,
+.single-content,
+.page,
+.page__inner-wrap,
+.wrap {
     margin-left: 20px !important;
+    padding-left: 20px !important;
     margin-top: 20px !important;
 }
