@@ -1,15 +1,5 @@
 
-.page__content,
-.page-content,
-.post__content,
-.entry-content,
-.archive__content,
-.single-content,
-.wrap,
-.page,
-.page__inner-wrap,
-main,
-article {
+.manual-indent {
     margin-left: 20px !important;
     padding-left: 20px !important;
     margin-top: 20px !important;
