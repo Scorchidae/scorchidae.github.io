@@ -7,10 +7,10 @@ author_profile: true
 ---
 
 {% include base_path %}
-<div style="margin-left: 40px; margin-top: 36px;">
 
-&nbsp;Education
+Education
 ======
+
 &nbsp;PhD Student in Earth, Marine, and Environmental Sciences          August 2025-Present
 &nbsp;&nbsp;University of North Carolina at Chapel Hill
 &nbsp;Bachelor of Science in Biology College of William &Mary                    August 2021-May 2025
