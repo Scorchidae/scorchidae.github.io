@@ -4,8 +4,6 @@ title: "Research"
 permalink: /research/
 ---
 
-<div style="padding-left: 10em;">
-
 Quantifying Pathways between Seagrass Habitat and Fisheries Production in North Carolina Estuaries
 ======
 
@@ -23,5 +21,3 @@ Assessing the Carrying Capcity and Ecological Impacts of Bivalve Aquaculture in 
 ![Alt text](/images/cherystone2.jpg)
 
 Flow diagram representation of the trophic flows in the Cherrystone Inlet Ecopath model. The y-axis denotes trophic level and the size of the circle for each group is proportional to standing stock biomass.
-
-</div>
